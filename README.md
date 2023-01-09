@@ -1,6 +1,6 @@
 # Codex
 <h1>Build and Deploy Your Own ChatGPT AI Application That Will Help You Code</h1>
-<h4>Resources Used</h4><br>
+<h4>Resources Used</h4>
 <h6>Front End</h6>
 <ul>
   <li>HTML</li>
@@ -11,9 +11,7 @@
 <ul>
   <li>Node.js</li>
   <li>Express.js</li>
-</ul><br>
- 
-
+</ul>
 <p>And openAI API key are required to make this application https://openai.com/api/</p>
 
   
