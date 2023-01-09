@@ -1,7 +1,7 @@
 # Codex
 <h1>Build and Deploy Your Own ChatGPT AI Application That Will Help You Code</h1>
 <h4>Resources Used</h4>
-<ul>
+<ul style="list-style: none">
   <li>Front End</li>
   <li>
     <ul>
