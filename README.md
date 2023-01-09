@@ -6,14 +6,14 @@ To get OpenAI API key [API key](https://openai.com/api/).
 
 ## Prerequisite 
 ### Front End
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 
 ### Back End
--Node.js
--Express.js
--NPM
+- Node.js
+- Express.js
+- NPM
 
 ## Deployement
 After build this application you can deploy your server free on this cloud hosting [Render](https://render.com/)
