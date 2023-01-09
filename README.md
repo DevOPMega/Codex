@@ -1,17 +1,7 @@
 # Codex
-<h1>Build and Deploy Your Own ChatGPT AI Application That Will Help You Code</h1>
-<h4>Resources Used</h4>
-<h6>Front End</h6>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-</ul><br>
-<h6>Back End</h6>
-<ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-</ul>
-<p>And openAI API key are required to make this application https://openai.com/api/</p>
+
+Make your own OpenAI application by using OpenAI API key and implement the whole features of ChatGPT in your own application.
+To get OpenAI API key [(https://openai.com/api/)]
+
 
   
